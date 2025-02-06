@@ -6,7 +6,8 @@ export const RegisterState = atom({
         lastname : "",
         username : "",
         email : "",
-        password : ""
+        password : "",
+        confirmpassword : "",
     }
 })
 
